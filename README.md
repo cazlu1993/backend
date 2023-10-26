@@ -104,31 +104,3 @@ To run e2e tests (the MySQL instance must be available), run the following comma
 **Test:** Jest, SuperTest
 
 **DevOps:** Docker Compose
-
-## Author
-
-👤 **Jaime Leonardo Suncin Cruz**
-
-- Twitter: [@jl_suncin](https://twitter.com/jl_suncin)
-- Github: [@leosuncin](https://github.com/leosuncin)
-<!-- markdown-link-check-disable -->
-- LinkedIn: [@jaimesuncin](https://linkedin.com/in/jaimesuncin)
-<!-- markdown-link-check-enable -->
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## Related
-
-Here are some more example projects with Nest.js
-
-[![Authentication example](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-auth-example)](https://github.com/leosuncin/nest-auth-example)
-
-[![API example](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-api-example)](https://github.com/leosuncin/nest-api-example)
-
-[![TypeORM custom repository](https://github-readme-stats.vercel.app/api/pin/?username=leosuncin&repo=nest-typeorm-custom-repository)](https://github.com/leosuncin/nest-typeorm-custom-repository)
-
-## License
-
-Release under the terms of [GPL v3](./LICENSE)
