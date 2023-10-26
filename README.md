@@ -33,7 +33,7 @@ Install dependencies
 
 Create a `.env` from the example one and customize it with your [environment variables](#environment-variables)
 
-Start the services using Docker Compose
+Start the services using Docker Compose, install mysql instance
 
 ```bash
   docker-compose up -d
