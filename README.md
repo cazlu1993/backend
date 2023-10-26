@@ -73,13 +73,7 @@ You can copy the example `.env` and edit the values
 To run unit tests, run the following command:
 
 ```bash
-  pnpm test
-```
-
-To run e2e tests (the MySQL instance must be available), run the following command:
-
-```bash
-  pnpm test:e2e
+  npm test
 ```
 
 ## Tech Stack
