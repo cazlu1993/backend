@@ -57,7 +57,7 @@ To run this project, you will need to add the following environment variables to
 
 `DATABASE_HOST` localhost **(required)**
 
-`DATABASE_PORT` The port of the to connect to the MySQL instance **(required)**
+`DATABASE_PORT` The port of the to connect to the MySQL instance, default 3302 **(required)**
 
 `DATABASE_USER` the _root_ user to connect to the MySQL instance **(required)**
 
