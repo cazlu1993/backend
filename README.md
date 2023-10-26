@@ -24,17 +24,6 @@
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/leosuncin/nest-graphql-example.git
-```
-
-Go to the project directory
-
-```bash
-  cd nest-graphql-example
-```
 
 Install dependencies
 
