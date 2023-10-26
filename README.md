@@ -1,4 +1,4 @@
-# 🎲 Nest.js GraphQL Example
+# 🎲 backend challenge
 
 [![MegaLinter](https://github.com/leosuncin/nest-graphql-example/workflows/MegaLinter/badge.svg?branch=master)](https://github.com/leosuncin/nest-graphql-example/actions/workflows/mega-linter.yml)
 [![CI](https://github.com/leosuncin/nest-graphql-example/workflows/CI/badge.svg?branch=master)](https://github.com/leosuncin/nest-graphql-example/actions/workflows/ci.yml)
